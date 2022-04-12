@@ -1,0 +1,12 @@
+x- Make a footer
+    x- Add attribution to icons
+        - <a href="https://www.flaticon.com/free-icons/education" title="education icons">Education icons created by Freepik - Flaticon</a>
+        - <a href="https://www.flaticon.com/free-icons/skill" title="skill icons">Skill icons created by Freepik - Flaticon</a>
+        - <a href="https://www.flaticon.com/free-icons/project" title="project icons">Project icons created by Smashicons - Flaticon</a>
+        - <a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by Freepik - Flaticon</a>
+        - <a href="https://www.flaticon.com/free-icons/html" title="html icons">Html icons created by Freepik - Flaticon</a>
+        - <a href="https://www.flaticon.com/free-icons/css" title="css icons">Css icons created by Freepik - Flaticon</a>
+x- Complete the sections
+- add link to github page of current website
+x- Make it responsive
+x- BG image for header
